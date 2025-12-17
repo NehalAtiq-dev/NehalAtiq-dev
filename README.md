@@ -43,8 +43,9 @@
 ## 💻 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=react,js,vue,typescript,php,html,css,bootstrap,tailwind,nodejs,express,mongodb,laravel,github,git,vscode,firebase,c,java)](https://skillicons.dev)
 
+&nbsp;
+&nbsp;
 
+<p><img align="left" top="30px" src="https://github-readme-stats.vercel.app/api/top-langs?username=kamilrazadev&show_icons=true&locale=en&layout=compact" alt="kamilrazadev" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kamilrazadev&show_icons=true&locale=en&layout=compact" alt="kamilrazadev" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamilrazadev&show_icons=true&locale=en" alt="kamilrazadev" /></p>
+<p>&nbsp;<img align="center"top="30px" src="https://github-readme-stats.vercel.app/api?username=kamilrazadev&show_icons=true&locale=en" alt="kamilrazadev" /></p>
