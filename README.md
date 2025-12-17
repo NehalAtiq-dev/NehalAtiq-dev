@@ -42,6 +42,3 @@
 
 <p><img align="left" top="30px" src="https://github-readme-stats.vercel.app/api/top-langs?username=kamilrazadev&show_icons=true&locale=en&layout=compact" alt="kamilrazadev" /></p>
 &nbsp;
-
-### ✍️ Random Dev Quote
-![align="left"](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
