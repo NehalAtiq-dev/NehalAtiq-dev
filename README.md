@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Nehal Atiq</h1>
 <h3 align="center">Full Stack Developer | Website Designer | Responsive Website | Conversion Optimization Specialist</h3>
-<img  align="right" alt="coding"  width="340" border-radius="40px left="40px" src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyZHRmYjZwNXdvcnk3dGVwcTliM2MwMHVpYnMyZDNrMXR5eXAwZHd0YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/source.gif" alt="Girl Programmer GIFs - Find &amp; Share on GIPHY"/>
+<img  align="right" alt="coding"  width="370" border-radius="40px left="80px" src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyZHRmYjZwNXdvcnk3dGVwcTliM2MwMHVpYnMyZDNrMXR5eXAwZHd0YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/source.gif" alt="Girl Programmer GIFs - Find &amp; Share on GIPHY"/>
 
 
 
@@ -43,7 +43,6 @@
 ## 💻 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=react,js,vue,typescript,php,html,css,bootstrap,tailwind,nodejs,express,mongodb,laravel,github,git,vscode,firebase,c,java)](https://skillicons.dev)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nehalatiq-dev&show_icons=true&locale=en&layout=compact" alt="nehalatiq-dev" /></p>
 
 
 
