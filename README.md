@@ -1,7 +1,7 @@
 <img  src="https://github.com/NehalAtiq-dev/NehalAtiq-dev/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png?raw=true" alt="Navy Blue Geometric Technology LinkedIn Banner.png"/>
 <h1 align="center">Hi 👋, I'm Nehal Atiq</h1>
 <h3 align="center">Full Stack Developer | Website Designer | Responsive Website | Conversion Optimization Specialist</h3>
-<img &nbsp;&nbsp; &nbsp;  align="right" alt="coding"  width="370" border-radius="40px left="80px" src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyZHRmYjZwNXdvcnk3dGVwcTliM2MwMHVpYnMyZDNrMXR5eXAwZHd0YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/source.gif" alt="Girl Programmer GIFs - Find &amp; Share on GIPHY"/&nbsp;<p align="left">
+
   &nbsp; 
 - 🔭 I’m currently working on [OLX Website](https://warm-entremet-eb661f.netlify.app/)
 
