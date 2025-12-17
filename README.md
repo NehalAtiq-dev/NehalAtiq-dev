@@ -27,7 +27,7 @@
 
 - ⚡ Fun fact **I love building ideas into projects.**
 
-<h3 align="left">## 🤝🏻 Let's Connect
+<h3 align="left"> 🤝🏻 Let's Connect
 </h3>
 <p align="left">
 <a href="https://linkedin.com/in/nehal atiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nehal atiq" height="30" width="40" /></a>
@@ -39,9 +39,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nehalatiq-dev&show_icons=true&locale=en&layout=compact" alt="nehalatiq-dev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nehalatiq-dev&show_icons=true&locale=en" alt="nehalatiq-dev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nehalatiq-dev&show_icons=true&locale=en" alt="nehalatiq-dev" /></p>
 
 ## GitHub Graph
-[![NehalAtiq-dev github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdulhaseebimran&theme=github-compact	)](https://github.com/Abdulhaseebimran/github-readme-activity-graph)
+[![NehalAtiq-dev github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdulhaseebimran&theme=github-compact	)](https://github.com//github-readme-activity-graph)
