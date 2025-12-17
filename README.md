@@ -43,4 +43,4 @@
 
 <p><img align="left" top="30px" src="https://github-readme-stats.vercel.app/api/top-langs?username=kamilrazadev&show_icons=true&locale=en&layout=compact" alt="kamilrazadev" /></p>
 
-<p>&nbsp;<img align="center"top="30px" src="https://github-readme-stats.vercel.app/api?usernameNehalAtiq-dev&show_icons=true&locale=en" alt="kamilrazadev" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NehalAtiq-dev&" alt="kamilrazadev" /></p>
