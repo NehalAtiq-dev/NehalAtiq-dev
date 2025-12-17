@@ -1,7 +1,7 @@
 <img  src="https://github.com/NehalAtiq-dev/NehalAtiq-dev/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png?raw=true" alt="Navy Blue Geometric Technology LinkedIn Banner.png"/>
 
 <h1 align="center">Hi 👋, I'm Nehal Atiq</h1>
-<h3 align="center">Full Stack Developer | Website Designer | Shopify Expert • Ecommerce Website • Responsive Website | Conversion Optimization Specialist</h3>
+<h3 align="center">Full Stack Developer | Website Designer | Responsive Website | Conversion Optimization Specialist</h3>
 <img  align="right" alt="coding"  width="400" src="https://camo.githubusercontent.com/62cf3b1249cb16e770ea25bb3e7a12925f50065e8aa4bd0b26e805b2a10b7689/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="GitHub - rudrabarad/Gifs: Collection of some Coding / Programming Gifs that can be used in Special Repository :trollface:"">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nehalatiq-dev&label=Profile%20views&color=0e75b6&style=flat" alt="nehalatiq-dev" /> </p>
