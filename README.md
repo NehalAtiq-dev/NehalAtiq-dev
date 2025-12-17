@@ -30,7 +30,7 @@
 - ⚡ Fun fact **I love building ideas into projects.**
 
 
-
+&nbsp;
 <h3 align="left"> 🤝🏻 Let's Connect
 </h3>
 <p align="left">
@@ -38,7 +38,8 @@
 <a href="https://instagram.com/website designer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="website designer" height="30" width="40" /></a>
 </p>
 
-
+&nbsp;
+&nbsp;
 
 ## 💻 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=react,js,vue,typescript,php,html,css,bootstrap,tailwind,nodejs,express,mongodb,laravel,github,git,vscode,firebase,c,java)](https://skillicons.dev)
