@@ -2,7 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Nehal Atiq</h1>
 <h3 align="center">Full Stack Developer | Website Designer | Responsive Website | Conversion Optimization Specialist</h3>
-<img  align="right" alt="coding"  width="400" src="https://camo.githubusercontent.com/62cf3b1249cb16e770ea25bb3e7a12925f50065e8aa4bd0b26e805b2a10b7689/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="GitHub - rudrabarad/Gifs: Collection of some Coding / Programming Gifs that can be used in Special Repository :trollface:"">
+<img  align="right" alt="coding"  width="400" src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyZHRmYjZwNXdvcnk3dGVwcTliM2MwMHVpYnMyZDNrMXR5eXAwZHd0YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/source.gif" alt="Girl Programmer GIFs - Find &amp; Share on GIPHY"/><img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/f61c76d9-545d-4f91-b13b-ba882b88c5f0"
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nehalatiq-dev&label=Profile%20views&color=0e75b6&style=flat" alt="nehalatiq-dev" /> </p>
 
