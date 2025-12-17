@@ -11,7 +11,6 @@
 
 - 🤝 I’m looking for help with **Growing my skills & open-source contributions.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/NehalAtiq-dev?tab=repositories](https://github.com/NehalAtiq-dev?tab=repositories)
 
 - 📝 I regularly write articles on [https://smit-task-website.netlify.app/](https://smit-task-website.netlify.app/)
 
