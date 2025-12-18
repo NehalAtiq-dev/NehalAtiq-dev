@@ -1,7 +1,8 @@
 <img  src="https://github.com/NehalAtiq-dev/NehalAtiq-dev/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png?raw=true" alt="Navy Blue Geometric Technology LinkedIn Banner.png"/>
 <h1 align="center">Hi 👋, I'm Nehal Atiq</h1>
 <h3 align="center">Full Stack Developer | Website Designer | Responsive Website | Conversion Optimization Specialist</h3>
-
+ &nbsp; 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nehalatiq-dev&label=Profile%20views&color=0e75b6&style=flat" alt="nehalatiq-dev" /> </p>
   &nbsp; 
 - 🔭 I’m currently working on [OLX Website](https://warm-entremet-eb661f.netlify.app/)
 
@@ -40,5 +41,6 @@
 &nbsp;
 &nbsp;
 
-<p><img align="left" top="30px" src="https://github-readme-stats.vercel.app/api/top-langs?username=kamilrazadev&show_icons=true&locale=en&layout=compact" alt="kamilrazadev" /></p>
-&nbsp;
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nehalatiq-dev&show_icons=true&locale=en&layout=compact" alt="nehalatiq-dev" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nehalatiq-dev&show_icons=true&locale=en" alt="nehalatiq-dev" /></p>
