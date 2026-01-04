@@ -4,16 +4,16 @@
  &nbsp; 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nehalatiq-dev&label=Profile%20views&color=0e75b6&style=flat" alt="nehalatiq-dev" /> </p>
   &nbsp; 
-- 🔭 I’m currently working on [OLX Website](https://warm-entremet-eb661f.netlify.app/)
+- 🔭 I’m currently working on [OLX Website]
 
 - 🌱 I’m currently learning **Shopify , UI UX Design etc.**
 
-- 👯 I’m looking to collaborate on [Smit-Task-Mini-Hacatoon](https://smit-task-website.netlify.app/)
+- 👯 I’m looking to collaborate on [Smit] (https://smit-student-id-generater.netlify.app/)
 
 - 🤝 I’m looking for help with **Growing my skills & open-source contributions.**
 
 
-- 📝 I regularly write articles on [https://smit-task-website.netlify.app/](https://smit-task-website.netlify.app/)
+- 📝 I regularly write articles on [https://smit-student-id-generater.netlify.app/]
 
 - 💬 Ask me about **Web dev & APIs.**
 
